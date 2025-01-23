@@ -25,4 +25,4 @@ Let’s connect and create something extraordinary together!
 - Email: 
 Moein.rabitabar2152@gmail.com
  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn:https://www.linkedin.com/in/moein-rabitabar-9a57a033a
