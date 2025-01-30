@@ -1,13 +1,13 @@
 # 💫 About Me:
 About Me:<br>I am a software engineer specializing in the development of intelligent systems and machine learning. With experience in complex software projects, I am passionate about creating innovative and scalable solutions for real-world challenges.<br>
 
-Currently Working On:<br>Developing an intelligent recommendation system using deep learning algorithms.<br>Optimizing predictive models to enhance accuracy and efficiency in big data processing.<br>
+Currently Working On:<br>-Developing an intelligent recommendation system using deep learning algorithms.<br>-Optimizing predictive models to enhance accuracy and efficiency in big data processing.<br>
 
-Looking to Collaborate On:<br>Projects related to artificial intelligence and machine learning, particularly in the fields of natural language processing (NLP) and computer vision.<br>Development of distributed systems and microservices for cloud-based platforms.<br>
+Looking to Collaborate On:<br>-Projects related to artificial intelligence and machine learning, particularly in the fields of natural language processing (NLP) and computer vision.<br>-Development of distributed systems and microservices for cloud-based platforms.<br>
 
-Currently Learning:<br>Deep learning with a focus on convolutional neural networks (CNNs) and recurrent neural networks (RNNs).<br>New technologies in DevOps and CI/CD to improve software development and deployment processes<br>
+Currently Learning:<br>-Deep learning with a focus on convolutional neural networks (CNNs) and recurrent neural networks (RNNs).<br>-New technologies in DevOps and CI/CD to improve software development and deployment processes<br>
 
-Ask Me About:<br>Designing and implementing intelligent systems and machine learning algorithms.<br>Best practices for developing scalable and reliable software.<br>My experiences working with frameworks like TensorFlow , PyTorch, and Kubernetes.<br>
+Ask Me About:<br>-Designing and implementing intelligent systems and machine learning algorithms.<br>-Best practices for developing scalable and reliable software.<br>-My experiences working with frameworks like TensorFlow , PyTorch, and Kubernetes.<br>
 
 Fun Fact:<br>I love participating in Kaggle competitions and have achieved top rankings in several data mining and machine learning challenges.
 
